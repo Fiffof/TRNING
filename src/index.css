@@ -1,6 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-html, body { margin: 0; background: #0E1116; overscroll-behavior-y: none; }
-body { padding-bottom: env(safe-area-inset-bottom); }
